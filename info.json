@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Teclado",
+        "precio": 3500,
+        "img":"https://picsum.photos/id/96/200",
+        "id": 0
+    },
+    {
+        "nombre": "Mouse",
+        "precio": 3000,
+        "img":"https://picsum.photos/200",
+        "id": 1
+    },
+    {
+        "nombre": "Auriculares",
+        "precio": 2000,
+        "img":"https://picsum.photos/id/0/200",
+        "id": 2
+    },
+    {
+        "nombre": "Monitor",
+        "precio": 5500,
+        "img":"https://picsum.photos/id/40/200",
+        "id": 3
+    }
+]
